@@ -1,0 +1,29 @@
+/* Configurações gerais */
+body,
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.display-4 {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.hero-section {
+    background-size: cover;
+    background-position: center;
+    height: 140vh;
+    color: #fff;
+}
+
+.hero-section a {
+    background-color: #d60708;
+    border-color: #d60708;
+}
+
+#sobre h2,
+#planos h2 {
+    font-weight: bold;
+}
