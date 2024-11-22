@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "6856d704-6059-44d8-8819-c5956fca0572",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1732233756306"
+        }
+      },
+      "favorite": {
+        "name": "academia",
+        "color": "color6"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://usuario:pZbecbTJoE4fNg04@cluster0.beiqi.mongodb.net/academia",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
