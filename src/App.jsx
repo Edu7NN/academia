@@ -4,6 +4,7 @@ import CadastroUsuario from './components/CadastroUsuario';
 import Login from './components/Login';
 import LandingPage from './components/LandingPage';
 import Crud from './components/Crud';
+<link rel="icon" href="%PUBLIC_URL%/meu-novo-favicon.png" />
 
 const App = () => {
     return (

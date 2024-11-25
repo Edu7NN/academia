@@ -1,7 +1,7 @@
 import React from "react";
 import "./LandingPage.css";
 import { Link } from "react-router-dom";
-import backgroundImg from 'C:/Users/Usuário/0001/src/assets/img/img02.jpg';
+
 
 const LandingPage = () => {
   return (
@@ -9,11 +9,12 @@ const LandingPage = () => {
       {/* Cabeçalho */}
       <header
         style={{
-          backgroundImage: `url(${backgroundImg})`,
+          backgroundImage: `url('/assets/img/img02.jpg')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "100vh",
-          width: "100vw"
+          width: "100vw",
+          opacity: "0.9"
         }}
         className="hero-section d-flex align-items-center"
       >
